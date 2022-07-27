@@ -5,14 +5,15 @@
     column-gap: 30px;
 }
 .grid-item{
-    background-color: blueviolet;
+    background-color:  rgb(153, 172, 122);
     border: 2px solid;
     padding: 30px;
     font-size: 30px;
     text-align: center;
     font-family: Arial 17px;
+    
 }
-.title{
+.heading{
     text-align: center;
     box-shadow: 5px 10px;
     border:2px solid rgb(85, 85, 116);
@@ -21,9 +22,15 @@
 }
 .msd{
     text-align: center;
-    text-shadow: 2px 4px;
     padding: 10px;
     font-size:60px;
 
 }
-
+body{
+    background-color: rgb(153, 172, 122);
+}
+#detail{
+    font-family: Arial 17px;
+    font-size:150%;
+    padding:0px 40px ;
+}
